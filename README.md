@@ -22,6 +22,8 @@ O PWM (Pulse Width Modulation) é uma técnica utilizada para controlar a potên
 
 ## Esquemático
 ![Esquemático](./schematics/pwm_controller_schematic.pdf)
+![image](https://github.com/Matheus-Bertol/Arduino_PWM_Controller/assets/141282448/efe349aa-e113-4f53-9f41-63beffc25c62)
+
 
 ## Código-fonte
 ```cpp
